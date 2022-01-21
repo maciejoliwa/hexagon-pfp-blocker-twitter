@@ -6,7 +6,7 @@ hexagon profile pictures on twitter.com :)
 ## Installation:
 
 For now, you have to install it in a quirky way:
-1. Download this repo.
+1. Download this repo (**Code** > **Download ZIP**).
 2. Unzip it anywhere.
 3. Open chrome and go to <a href="chrome://extensions">chrome://extensions</a>.
 4. Enable **Developer Mode**.
