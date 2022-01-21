@@ -4,7 +4,7 @@ const PROFILE_PICTURE_CLASS = '.css-1dbjc4n.r-1wyvozj.r-u8s1d.r-1v2oles.r-desppf
 const HEXAGON_PROFILE_PICTURE_STYLE = 'clip-path: url("#hex-hw-shapeclip-clipconfig")'; 
 
 const isNFTProfilePicture = element => {
-    const styleAttribute = element.getAttribute('style') || '';
+    const styleAttribute = element.getAttribute('style');
 
     if (!styleAttribute) {
         return false;
