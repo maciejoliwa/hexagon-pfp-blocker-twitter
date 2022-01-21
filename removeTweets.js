@@ -11,7 +11,7 @@ const isNFTProfilePicture = element => {
     }
 
     /*
-    These hexagon profile pictures have one style property which value that can be seen
+    These hexagon profile pictures have one style property with value that can be seen
     in the HEXAGON_PROFILE_PICTURE_STYLE constant.
     If a profile picture contains such style, this functions will return true.
     */
